@@ -8,6 +8,7 @@ This repository serves the project related to anomalous event detection in web b
 
 ## data folder
 :TODO:
+added KDD.....
 
 
 ## models folder
